@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571930860832.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "995720401",
+    "id" : "F7A78B89",
+    "lastKnownWriteTime" : 1571931060,
+    "last_content_update" : 1571931060703,
+    "path" : "~/Semestr3/Zaawansowany_R/Lab4Pro/R/my_mean.R",
+    "project_path" : "R/my_mean.R",
+    "properties" : {
+        "cursorPosition" : "3,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571930809488.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1CDFC7A",
+    "lastKnownWriteTime" : 1571929930,
+    "last_content_update" : 1571929930,
+    "path" : "~/Semestr3/Zaawansowany_R/Lab_04/L4.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "4,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

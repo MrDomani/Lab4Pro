@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571930994214.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "970283014",
+    "id" : "6EF1FC18",
+    "lastKnownWriteTime" : 1571930685,
+    "last_content_update" : 1571930685,
+    "path" : "~/Semestr3/Zaawansowany_R/Lab4Pro/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
