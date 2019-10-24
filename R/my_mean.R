@@ -4,7 +4,7 @@
 #' @param x a list of numeric vectors
 #'
 #' @section Usecases :
-#' Count a mean from multiple vectors (or from a data frame columnwise)
+#' Count a mean from multiple vectors (or from a data frame columnwise).
 #'
 #' @author Morgen
 #' @details Calculates mean of each numeric vector in a list

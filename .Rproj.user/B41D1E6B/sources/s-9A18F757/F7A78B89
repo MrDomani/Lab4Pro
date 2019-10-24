@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "995720401",
+    "hash" : "0",
     "id" : "F7A78B89",
-    "lastKnownWriteTime" : 1571931060,
-    "last_content_update" : 1571931060703,
+    "lastKnownWriteTime" : 1571935588,
+    "last_content_update" : 1571935588511,
     "path" : "~/Semestr3/Zaawansowany_R/Lab4Pro/R/my_mean.R",
     "project_path" : "R/my_mean.R",
     "properties" : {
-        "cursorPosition" : "3,12",
+        "cursorPosition" : "6,72",
         "scrollLine" : "0"
     },
     "read_only" : false,
